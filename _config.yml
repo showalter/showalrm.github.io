@@ -3,8 +3,8 @@ title: Ryan Showalter
 email: ryanshowalter76@gmail.com
 url: http://rshowalter.com
 description: "Ryan Showalter's personal portfolio page"
-keywords: "your keywords, separated by commas"
-skills: "Software Developer"
+# keywords: "your keywords, separated by commas"
+skills: "Computer Science Student"
 meta_author: Ryan Showalter
 
 # Google webmaster tools
@@ -39,15 +39,18 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: instagram
+    url: https://www.instagram.com/ryan_showalter
   - title: facebook
     url: https://www.facebook.com/ryan.showalter.944
   - title: github
-    url: http://github.com/showalrm
+    url: https://github.com/showalrm
+  - title: linkedin
+    url: https://www.linkedin.com/in/ryan-showalter
 
 # Postal address (add as many lines as necessary)
-# address:
-#   - line: 3481 Melrose Place
-#   - line: Beverly Hills, CA 90210
+address:
+  - line: Harrisonburg, VA
 
 # Credits content
 credits: 'This webpage is built using the freelancer theme. Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
